@@ -6,17 +6,18 @@ This project contains several implementations of tabular reinforcement learning 
 ## Installation
 
 To use this project, you should have Python 3.x installed on your system. You can then clone the repository to your local machine using the following command:
+
 git clone https://github.com/RylinnM/Tabular-Reinforcement-Learning.git
 
 
 ## Usage
 
-The main entry point for the project is the `main.py` script. You can use this script to train agents using the different algorithms implemented in the project. To run the script, use the following command:
+The main entry point for the project is the `experiment.py` script. You can use this script to train agents using the different algorithms implemented in the project. Multiple options are available in the code to enable various configurations.
 
 The available options are:
 
 - `--algorithm`: The reinforcement learning algorithm to use (dp, qlearning, sarsa, nstepq, or mc).
-- `--env`: The environment to use for training (e.g., cartpole, mountaincar).
+
 - `--num_episodes`: The number of episodes to train the agent for.
 - `--gamma`: The discount factor to use in the reinforcement learning algorithm.
 - `--alpha`: The learning rate to use in the reinforcement learning algorithm.
