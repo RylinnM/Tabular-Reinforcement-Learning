@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Practical for course 'Reinforcement Learning',
-Leiden University, The Netherlands
-2021
-By Thomas Moerland
-
 Written and commented by: R.Ma
 Ver 0.1 20/02/2023
 Ver 0.2 22/02/2023
