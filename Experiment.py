@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Practical for course 'Reinforcement Learning',
-Leiden University, The Netherlands
-By Thomas Moerland
-
-Modified by R.Ma.
+Written and modified by R.Ma.
 """
 
 import numpy as np
