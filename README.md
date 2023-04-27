@@ -16,13 +16,19 @@ The main entry point for the project is the `experiment.py` script. You can use 
 
 The available options are:
 
-- `--algorithm`: The reinforcement learning algorithm to use (dp, qlearning, sarsa, nstepq, or mc).
-
-- `--num_episodes`: The number of episodes to train the agent for.
+- `--backup`: The reinforcement learning algorithm backup to use (dp, qlearning, sarsa, nstepq, or mc).
+- `--n_repetitions`: The number of repetitions to train the algorithm for.
+- `--n_timesteps`: The number of timesteps to train the agent for.
 - `--gamma`: The discount factor to use in the reinforcement learning algorithm.
-- `--alpha`: The learning rate to use in the reinforcement learning algorithm.
+- `--learning_rate`: The learning rate to use in the reinforcement learning algorithm.
 - `--n`: The number of steps to use in n-step Q-learning.
-- `--render`: Whether to render the environment during training.
+- `--max_episode_length`: The maximum episode length that can be reached during training.
+- `--policy`: The action selection policy used.
+- `--epsilon`: Parameter for the epsilon-greedy policy.
+- `--temp`: Parameter for the softmax policy.
+- `--smoothing_window`: The window selection used to smooth the graph.
+- `--plot`: Whether or not plot the figure. (T/F).
+- `--percent`: The percent of annealing of selection policy parameters during training.
 
 
 
