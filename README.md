@@ -12,7 +12,7 @@ git clone https://github.com/RylinnM/Tabular-Reinforcement-Learning.git
 
 ## Usage
 
-The main entry point for the project is the `experiment.py` script. You can use this script to train agents using the different algorithms implemented in the project. Multiple options are available in the code to enable various configurations.
+The main entry point for the project is the `experiment.py` script. You can use this script to train agents using the different algorithms implemented in the project. Multiple options are available in the code to enable various configurations. Please be advised that these options have to be configured in the script itself instead of argument in the command line.
 
 The available options are:
 
