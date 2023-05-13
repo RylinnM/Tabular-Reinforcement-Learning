@@ -1,5 +1,5 @@
 # Tabular-Reinforcement-Learning
-A collection of several tabular reinforcement learning methods that are implemented from scratch.
+A collection of several tabular reinforcement learning methods implemented from scratch.
 
 This project contains several implementations of tabular reinforcement learning algorithms, including dynamic programming, Q-learning, SARSA, n-step Q-learning, and Monte Carlo. These algorithms are implemented in Python and can be used to train agents to solve various reinforcement learning problems.
 
