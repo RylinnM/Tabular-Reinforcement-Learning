@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 By Thomas Moerland
-Modified by R.Ma
+Modified by R.Ma.
 """
 
 import numpy as np
