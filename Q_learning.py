@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Written and commented by: R.Ma
+Written and commented by: R.Ma.
 Ver 0.1 20/02/2023
 Ver 0.2 22/02/2023
 Ver 0.9 24/02/2023
