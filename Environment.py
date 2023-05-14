@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Written and modified by R.Ma
+Written and modified by R.Ma.
 """
 import matplotlib
 matplotlib.use('Qt5Agg') # 'TkAgg'
